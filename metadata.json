@@ -1,0 +1,6 @@
+{
+  "name": "TechClass",
+  "description": "Digital classroom and exam preparation platform for Indian government competitive exams (UPSC, MPSC, SSC, Banking, Railway, Police Bharti) with courses, tests, and protected digital library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
